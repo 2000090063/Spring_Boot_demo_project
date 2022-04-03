@@ -10,7 +10,7 @@ public class CoursesController {
 public String courses ()
 {
 		
-		return "course.jsp";
+		return "course";
 }
 
 }
